@@ -31,7 +31,8 @@ export class RsvpComponent implements OnInit {
   comidas = [
     { value: 'Arroz de camarones', label: 'Arroz de Camarones 🍤🍚' },
     { value: 'Pescado', label: 'Pescado Frito 🐟' },
-    { value: 'Frichi', label: 'Frichi (Chivo Tradicional de La Guajira) 🐐' }
+    { value: 'Frichi', label: 'Frichi (Chivo Tradicional de La Guajira) 🐐' },
+    { value: 'Pechuga gratinada', label: 'Pechuga gratinada - Infantil 🍗' },
   ];
 
   constructor(
