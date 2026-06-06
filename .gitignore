@@ -1,0 +1,28 @@
+# Miscellaneous
+/node_modules
+/.angular/cache
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# IDEs and editors
+/.idea
+/.project
+/.classpath
+/.cproject
+/.settings
+/.vscode
+/*.launch
+/*.tmproj
+/*.sublime-workspace
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
